@@ -25,6 +25,14 @@ let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
 // Your code here
-
+let stringOne = "Coding Bootcamp";
+let stringTwo = "JavaScript";
+let stringThree = "";
+let lengthOne = stringOne;
+let lenghtTwo = stringTwo;
+let lengthThree = stringThree;
+console.log(lengthOne.length);
+console.log(lenghtTwo.length);
+console.log(lengthThree.length);
 
 
